@@ -1,4 +1,4 @@
 # BlueLink
-## ⚠️​ IT IS STILL IN DEVELEPOMENT AND CURRENTLY NOT WORKING AS IT SHOULD ⚠️ ​
- - BlueLink is an app made for transfering files via the Bluetooth protocol.
- - It is made with Java, Java Swing and BlueCove library.
+## ⚠️​IT IS STILL IN DEVELOPMENT AND CURRENTLY NOT WORKING AS IT SHOULD⚠️ ​
+ - BlueLink is a desktop app made for transfering files via the Bluetooth protocol.
+ - Technologies used: *Java*, *Java Swing* and [BlueCove](https://example.com) library!
